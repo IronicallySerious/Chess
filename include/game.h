@@ -2,15 +2,15 @@
 
 namespace StickMan {
 
-class Game{
-private:
-    bool m_isWindowClosed;
+    class Game{
+    private:
+        bool m_isWindowClosed;
 
-public:
-    Game();
+    public:
+        Game();
 
-    void play();
-    void update();
+        void play();
+        void update();
 };
 
 }
