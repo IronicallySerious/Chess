@@ -1,2 +1,2 @@
-# Chess
-A simple chess game
+# Stick
+A simple stick figure game
