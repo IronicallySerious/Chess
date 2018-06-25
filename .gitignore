@@ -1,0 +1,6 @@
+# CMake generated build files
+build/
+CMakeFiles/
+
+# VSCode bloat
+.vscode/
