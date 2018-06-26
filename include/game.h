@@ -1,10 +1,13 @@
 #pragma once
 
-namespace StickMan {
+#include <renderer.h>
+
+namespace Stick {
 
     class Game{
     private:
         bool m_isWindowClosed;
+        Renderer m_Renderer;
 
     public:
         Game();

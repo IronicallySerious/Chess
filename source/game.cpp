@@ -1,6 +1,6 @@
 #include <game.h>
 
-namespace StickMan {
+namespace Stick {
 
 void Game::play()
 {
@@ -9,7 +9,7 @@ void Game::play()
 
 void Game::update()
 {
-
+    m_Renderer.draw("clrscreen");
 }
 
 }
